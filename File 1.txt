@@ -5,3 +5,6 @@ the sessions timing are 2 to 4 &&&&&&
 
 this in bug2 branch
 >>>>>>> bug2
+
+
+this change is for stash function
