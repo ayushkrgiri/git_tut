@@ -1,4 +1,7 @@
 Welcome to git tutorial
+<<<<<<< HEAD
 the sessions timing are 2 to 4 &&&&&&
-&&&&&&
-this is in bug 1 branch
+
+
+this in bug2 branch
+>>>>>>> bug2
